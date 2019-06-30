@@ -1,0 +1,5 @@
+name: JoyconGunz
+main: mc.oli.JoyconGunz
+version: 1.0
+api-version: 1.14
+commands:
